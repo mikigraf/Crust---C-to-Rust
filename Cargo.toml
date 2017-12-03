@@ -1,0 +1,8 @@
+[package]
+name = "crust"
+version = "0.1.0"
+authors = ["Mikolaj Wawrzyniak"]
+
+[lib]
+name = "crust"
+crate-type = ["cdylib"]
